@@ -1,16 +1,16 @@
 # Notes from Intro to Debugging Workshop
 
-What is a bug?
+**What is a bug?**
 
  - A piece of code that doesn't work as expected
  - errors within the code
 
-What is Debugging?
+**What is Debugging?**
 
   - Process of eliminating bugs from expected program output
   - Should be focused on finding bugs and seeing what is happening
 
-What is the Debugging Mantra?
+**What is the Debugging Mantra?**
 
  - "Tighten the loop, get visibility."
 
@@ -26,7 +26,7 @@ Types of errors examples:
 - syntax errors
 
 Identifying errors
-- Use "p" to print bits of code to see/test what's happening within the code 
+- Use "p" to print bits of code to see/test what's happening within the code
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
